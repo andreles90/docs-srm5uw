@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-lgrm2f.geo4dentists.com/sitemap.xml
